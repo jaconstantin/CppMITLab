@@ -23,8 +23,8 @@ int hello(void){
 	
 	x=1;
 	do{
-			cout << "Hello, World!\n";
-			++x;
+		cout << "Hello, World!\n";
+		++x;
 	}
 	while(x<=n);
 	
